@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/bartek-figat/koa-mongodb/badge)](https://www.codefactor.io/repository/github/bartek-figat/koa-mongodb)
+
 <h1 align="center"> Koa-Mongodb </h1> <br>
 
 ## Installation
