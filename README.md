@@ -1,13 +1,20 @@
-<h1 align="center"> Koa-Test </h1> <br>
+<h1 align="center"> Koa-Mongodb </h1> <br>
 
 ## Quick Start
 
-```bash
-$ npm install
+```javascript
+$ npm i -S
 ```
 
-```bash
+```javascript
 $ npm run watch:server
 ```
 
-Application will run by default on port `8080`
+Application will run by default on port `8080`<br>
+
+<h2 align=""> API </h2> <br>
+
+| Function name | Description |
+| ------------- | ----------- |
+| `get()`       | "/"         |
+| `post()`      | "/post"     |
