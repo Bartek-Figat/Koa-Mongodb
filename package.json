@@ -1,0 +1,21 @@
+{
+  "name": "koa_t",
+  "version": "1.0.0",
+  "description": "Koa test",
+  "main": "server.js",
+  "scripts": {
+    "watch:server": "nodemon server.js"
+  },
+  "author": "Bartlomiej Figatowski",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^9.4.0",
+    "koa2-cors": "^2.0.6",
+    "mongodb": "^3.6.2"
+  }
+}
