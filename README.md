@@ -1,6 +1,6 @@
 <h1 align="center"> Koa-Mongodb </h1> <br>
 
-## Quick Start
+## Built With
 
 ```javascript
 $ npm i -S
