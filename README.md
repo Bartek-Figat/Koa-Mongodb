@@ -1,6 +1,6 @@
 <h1 align="center"> Koa-Mongodb </h1> <br>
 
-## Quick Start
+## Installation
 
 ```javascript
 $ npm i -S
@@ -10,9 +10,15 @@ $ npm i -S
 $ npm run watch:server
 ```
 
-Application will run by default on port `8080`<br>
+### Built With
 
-<h2 align=""> API </h2> <br>
+- [x] node.js
+- [x] koa.js
+- [x] mongodb
+      <br>
+      Application will run by default on port `8080`<br>
+
+<h3 align=""> API </h3> <br>
 
 | Function name | Description |
 | ------------- | ----------- |
