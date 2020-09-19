@@ -16,7 +16,7 @@ $ npm run watch:server
 - [x] koa.js
 - [x] mongodb
 
-### Application will run by default on port `8080`<br>
+### Application will run by default on port:`8080`<br>
 
 <h3 align=""> API </h3> <br>
 
@@ -24,3 +24,33 @@ $ npm run watch:server
 | ------------- | ----------- |
 | `get()`       | "/"         |
 | `post()`      | "/post"     |
+
+<br>
+
+# Folder Structure
+
+```javascript
+
+app
+├── config
+│   └── config.js
+│
+├── controllers
+│   └── db.controllers.js
+│   └── user.controllers.js
+│
+├── middleware
+│   └── index.middleware.js
+│
+├── models
+│   └── models.schema.js
+│
+├── .env
+│
+│
+├── .gitignore
+│
+│
+├── server.js
+
+```
