@@ -46,10 +46,10 @@ app
 ├── models                      # Models (usually database models)
 │   └── models.schema.js
 │
-├── .env
+├── .env                        # Env (The process.env property returns an object containing the user environment)
 │
 │
-├── .gitignore
+├── .gitignore                  # Gitignore (specifies intentionally untracked files to ignore)
 │
 ├──  package.json               # Project Description & Dependencies
 │
